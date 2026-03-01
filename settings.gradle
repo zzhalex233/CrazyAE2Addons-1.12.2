@@ -17,13 +17,10 @@ pluginManagement {
         maven {
             url = "https://maven.wagyourtail.xyz/snapshots"
         }
-<<<<<<< HEAD
 
         maven {
             url = "https://repo.huaweicloud.com/repository/maven"
         }
-=======
->>>>>>> d5dd30c63d0afa098f3953299ea3c5af7d8b187d
         gradlePluginPortal() {
             content {
                 excludeGroup("org.apache.logging.log4j")
